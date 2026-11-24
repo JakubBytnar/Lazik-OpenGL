@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LazikRolniczy/LazikRolniczy.vcxproj" Id="067c80a5-9297-43cb-9c36-d5c70a4b8c4c" />
+</Solution>
